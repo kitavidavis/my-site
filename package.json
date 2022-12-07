@@ -1,11 +1,11 @@
 {
-  "name": "personal-site",
+  "name": "my-site",
   "version": "4.0.0",
-  "homepage": "https://mldangelo.com/",
+  "homepage": "https://github.com/kitavidavis/my-site.git/README.md",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mldangelo/personal-site.git"
+    "url": "https://github.com/kitavidavis/my-site.git"
   },
   "engines": {
     "node": ">=14.x"
