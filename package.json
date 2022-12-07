@@ -1,7 +1,6 @@
 {
   "name": "my-site",
   "version": "4.0.0",
-  "homepage": "https://github.com/kitavidavis/my-site.git/README.md",
   "license": "MIT",
   "repository": {
     "type": "git",
